@@ -33,6 +33,7 @@
 - Knowledge of Docker
 - Graphic Design
 - Video Editing
+- Music Production
 - Project Management
 - Networking Basics
 
