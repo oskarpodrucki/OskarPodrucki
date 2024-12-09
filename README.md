@@ -4,8 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/podrucki444)](https://twitter.com/podrucki444)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oskar-podrucki-5198322b7/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/podrucki444/)](https://www.instagram.com/podrucki444)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oskarpodrucki1@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://oskarpodrucki.pl)](https://oskarpodrucki.pl)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:oskarpodrucki.mailsm@gmail.com)
 [![Github](https://img.shields.io/github/followers/oskarpodrucki?label=Follow&style=social)](https://github.com/oskarpodrucki)
 
 🌟 My name is Oskar, I am 16 years old.
